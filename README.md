@@ -1,10 +1,10 @@
 # Memleketimden-Sesler-Websitesi
 ### Used Technolojies
-*Php*
-*Html*
-*Css*
-*JavaScript*
-*Bootstrap*
-*Jquery*
-*Sql*
+*Php*<br>
+*Html*<br>
+*Css*<br>
+*JavaScript*<br>
+*Bootstrap*<br>
+*Jquery*<br>
+*Sql*<br>
 [Website Link](http://rumeysaozer.com/memleketimdensesler/)
