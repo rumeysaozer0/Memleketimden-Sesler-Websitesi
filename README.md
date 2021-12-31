@@ -6,6 +6,6 @@
 **JavaScript**<br>
 **Bootstrap**<br>
 **Jquery**<br>
-**Sql**<br><br>
+**Sql**<br>
 
 [Website Link](http://rumeysaozer.com/memleketimdensesler/)
